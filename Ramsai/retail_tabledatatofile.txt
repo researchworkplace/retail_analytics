@@ -1,0 +1,1 @@
+hive -f '/home/ubuntu/test.hql' > /home/ubuntu/stage
